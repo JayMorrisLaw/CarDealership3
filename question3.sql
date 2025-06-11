@@ -1,0 +1,5 @@
+-- QUESTION 3 
+USE cardealershipdatabase;
+SELECT *
+FROM VEHICLES
+WHERE VIN = "1C4PJLCB7KD280123";
